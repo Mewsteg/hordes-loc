@@ -23,6 +23,7 @@ export default {
     sr: 'Стрелац',
     it: 'Arciere',
     ja: '射手'
+    tr: 'Okçu',
   },
 
   // Class description, visible during character creation
@@ -48,5 +49,6 @@ export default {
     sr: 'Стрелци су изузетно способни да концентришу своју моћ на једну мету и могу да делују на више противника делимично.Добар стрелаље из далека.',
     it: 'Gli Arcieri infliggono un danno elevato ad un singolo bersaglio e un danno esplosivo ad area. Un buon arciere mantiene sempre le distanze e colpisce i nemici da lontano.',
     ja: '射手は単体の敵に対して高火力を発揮し、戦況に爆発的な影響を与えます。上手な射手は常に敵との距離を保ち、遠くから狙い撃ちにします。'
-  }
+    tr: 'Okçular tek bir hedefe yüksek hasar verir. İyi bir okçu her zaman mesafesini korur ve düşmanlarını uzaktan nişanlar.', 
+  } 
 }
