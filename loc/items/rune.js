@@ -12,7 +12,8 @@ export default [
       es: 'Este material plano se encuentra comúnmente en minas; los monstruos a menudo extraen a Lucid para apoyar sus economías.',
       pt: 'Este material plano geralmente é encontrado em minas; monstros frequentemente procuram o Lucid para sustentar suas economias.',
       nl: 'Dit platte materiaal wordt regelmatig gevonden in mijnen, monster mijnen regelmatig op zoek naar Lucid om hun economie te ondersteunen.'
-    }
+      tr: 'Bu yassı malzeme genellikle madenlerde bulunur; canavarlar genellikle Lucid ekonomilerini desteklemesi için benimserler'
+    }  
   },
 
   {
